@@ -1,0 +1,11 @@
+{
+  "name": "apollo-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:BolajiOlajide/apollo-express.git",
+  "author": "BolajiOlajide <cooproton@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
